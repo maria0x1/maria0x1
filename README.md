@@ -1,11 +1,20 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFqbWlxeDM0aDFzYjNteG1tejg1NDFrNjl2bWx4NDRjYjlicmJ0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="10%" style="max-width:150px; border-radius: 8px;" alt="Header Banner"/>
-  <br/><br/>
-  <h1><strong>GABRIELA ROCHA</strong></h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Java+Back-End+Developer;Building+Scalable+%26+Fast+Software;APIs+RESTful+%2B+Modern+Web+Dev" alt="Typing Effect" />
-  </a>
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFqbWlxeDM0aDFzYjNteG1tejg1NDFrNjl2bWx4NDRjYjlicmJ0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="120" style="border-radius: 8px;" alt="Header Banner"/>
+      </td>
+      <td align="left" valign="middle">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=61DAFB&vCenter=true&width=450&height=45&lines=GABRIELA+ROCHA" alt="Gabriela Rocha" />
+        </a>
+        <br/>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=A9B1D6&vCenter=true&width=450&height=35&lines=Java+Back-End+Developer;Building+Scalable+%26+Fast+Software;APIs+RESTful+%2B+Modern+Web+Dev" alt="Typing Effect" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
