@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFqbWlxeDM0aDFzYjNteG1tejg1NDFrNjl2bWx4NDRjYjlicmJ0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" style="max-width:650px; border-radius: 8px;" alt="Header Banner"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFqbWlxeDM0aDFzYjNteG1tejg1NDFrNjl2bWx4NDRjYjlicmJ0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="50%" style="max-width:150px; border-radius: 8px;" alt="Header Banner"/>
   <br/><br/>
   <h1><strong>GABRIELA ROCHA</strong></h1>
   
