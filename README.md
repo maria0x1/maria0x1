@@ -2,7 +2,7 @@
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFqbWlxeDM0aDFzYjNteG1tejg1NDFrNjl2bWx4NDRjYjlicmJ0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="120" style="border-radius: 8px;" alt="Header Banner"/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFqbWlxeDM0aDFzYjNteG1tejg1NDFrNjl2bWx4NDRjYjlicmJ0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="220" style="border-radius: 8px;" alt="Header Banner"/>
       </td>
       <td align="left" valign="middle">
         <a href="https://git.io/typing-svg">
@@ -80,7 +80,6 @@
 ### <strong>CONQUISTAS E MÉTRICAS DO GITHUB</strong>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maria0x1&theme=tokyonight&no-frame=true&column=6" alt="GitHub Trophies" />
   <br/><br/>
   <img height="180em" src="https://github-readme-stats.shion.dev/api?username=maria0x1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=maria0x1&layout=compact&theme=tokyonight&hide_border=false"/>
